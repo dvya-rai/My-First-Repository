@@ -1,2 +1,2 @@
 Hello World!
-My name is Divya Rai
+My name is Divya Rai. I am a pre-final year student.
